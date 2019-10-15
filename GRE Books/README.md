@@ -14,3 +14,8 @@
 - There are video solutions to each and every question which will help you build your thought process behind how to eliminate a few options, which options to shortlist and even how to take a calculated guess at times.
 - It keeps a track of the number of questions you got right and their difficulty levels and gives you an estimated GRE score section-wise that you can expect. (It was prettu=y accurate for me as my expected GRE score according to Magoosh was Verbal - 160 and Quant - 169)
 - You can have your practice sessions tailored according to your needs for Verbal and Quant separately. 
+
+### Official ETS Verbal Reasoning & Quant Practice Books
+- ETS books are awesome, but my suggestion is that instead of going for the official guide, solve the verbal practice book
+and the quant practice book.
+- You can solve the mock tests given in the official guide too!
