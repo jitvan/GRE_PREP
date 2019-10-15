@@ -7,6 +7,6 @@
 #### [Amogh Dabholkar](https://www.linkedin.com/in/amogh-dabholkar/) GRE Score - Quant (168) + Verbal (161)
 #### [Dhruva Barfiwala](https://www.linkedin.com/in/dhruva-barfiwala-9b4824160/)  GRE Score - Quant (170) + Verbal (170) + AWA (5)
 
-We hope we it worth your while!<br/>
+We hope to make it worth your while!<br/>
 Best,<br/>
 Amogh & Dhruva.
