@@ -1,4 +1,4 @@
-## One area where almost every GRE Patricipant is worried and most certainly lagging is Vocabulary. Vocab Prep forms a very important part of the GRE prep and in our opinion, is the toughest part. Hence, we would like share with you the strategy we followed to tackle this issue.
+## One area where almost every GRE Patricipant is worried and most certainly lagging is Vocabulary. Vocab Prep forms a very important part of the GRE prep and in our opinion, is the toughest part. Hence, we would like to share with you, the strategy we followed to tackle this issue.
 
 ### Magoosh Flashcards.
 - In our opinion, this list of 1000 words is the bible of GRE Vocab. Every person who intends to appear for GRE should, at the very least, know every single word in the 'Basic Words' and 'Common Words' decks. It would be advisable to go through the 'Advance Words' decks too if one has time.
