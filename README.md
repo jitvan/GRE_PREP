@@ -5,4 +5,4 @@
 
 ### Credentials -
 #### [Amogh Dabholkar](https://www.linkedin.com/in/amogh-dabholkar/) GRE Score - Quant (168) + Verbal (161)
-#### [Dhruva Barfiwala](https://www.linkedin.com/in/dhruva-barfiwala-9b4824160/) GRE Score - Quant (170) + Verbal (170) + AWA (5)
+#### [Dhruva Barfiwala](https://www.linkedin.com/in/dhruva-barfiwala-9b4824160/)  GRE Score - Quant (170) + Verbal (170) + AWA (5)
