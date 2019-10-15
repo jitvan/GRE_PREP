@@ -1,7 +1,7 @@
 ## One area where almost every GRE Patricipant is worried and most certainly lagging is Vocabulary. Vocab Prep forms a very important part of the GRE prep and in our opinion, is the toughest part. Hence, we would like to share with you, the strategy we followed to tackle this issue.
 
 ### Magoosh Flashcards.
-- In our opinion, this list of 1000 words is the bible of GRE Vocab. Every person who intends to appear for GRE should, at the very least, know every single word in the `Basic Words` and `Common Words` decks. It would be advisable to go through the `Advance Words` decks too if one has time.
+- In our opinion, this list of 1000 words is the bible of GRE Vocab. Every person who intends to appear for GRE should, at the very least, know every single word in the **Basic Words** and **Common Words** decks. It would be advisable to go through the **Advance Words** decks too if one has time.
 - Keep on practicing the words every day, repeat the decks every week, and make your own list of words you tend to forget. A demo list that Dhruva prepared for his own prep is attached in this directory. I personally preferred writing the words down in my notebook instead.
 
 ### Barrons' (800) High Frequency Words.
